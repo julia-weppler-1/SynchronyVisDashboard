@@ -55,8 +55,8 @@ The app utilizes a module named `load_data.py` that loads:
 
 After you receive the data from us (if you are approved to access the data), place:
 
-* the **xlsx** /file into `data/` and name it Synch_Data.xlsx
-* the **video** file into `assets/data_video` and name it Dyad_Video.mp4
+* the **xlsx** file into `data/` and name it Synch_Data.xlsx
+* the **video** file into `assets/data_video/` and name it Dyad_Video.mp4
 
 
 ## 4. Running the app
