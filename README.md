@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ## 3. Getting the data 
 
-The app expects a module named `load_data.py` that provides:
+The app utilizes a module named `load_data.py` that loads:
 
 * a pandas DataFrame named **`df`** with the session time series
 * a **`VIDEO`** variable with the path/URL to the corresponding video
